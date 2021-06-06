@@ -1,5 +1,3 @@
-<meta http-equiv="refresh" content="0;URL='https://blog.purwadi.web.id'" />
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sgitsp/xn--8g9hch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
