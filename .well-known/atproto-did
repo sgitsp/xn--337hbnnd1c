@@ -1,6 +1,6 @@
-async function resolveHandle(handle: string) {
-  const res = await fetch(`https://${handle}/.well-known/atproto-did`)
-  const did = await res.text()
-  assert(typeof did === 'string' && did.startsWith('did:'))
-  return did
+{
+  id: 'did:plc:kphx7c2gcxugkc42ex5at2zb',
+  alsoKnownAs: 'https://xn--3bi.fr.to',
+  verificationMethod: [...],
+  service: [{serviceEndpoint: 'https://fr.to'}]
 }
